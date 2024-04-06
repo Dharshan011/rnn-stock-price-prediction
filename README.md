@@ -36,8 +36,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 
-NAME   : B.PAVIZHI  
-REG NO : 212221230077
+NAME   : dharshan v
+REG NO : 212222230031
  
 ```
 import numpy as np
